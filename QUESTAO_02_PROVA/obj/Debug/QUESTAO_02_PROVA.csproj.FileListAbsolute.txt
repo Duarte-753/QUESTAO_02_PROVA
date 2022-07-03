@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Prova de Lógica de Programação 2ºBimestre\QUESTAO_02_PROVA\bin\Debug\QUESTAO_02_PROVA.exe.config
+C:\Users\User\Desktop\Prova de Lógica de Programação 2ºBimestre\QUESTAO_02_PROVA\bin\Debug\QUESTAO_02_PROVA.exe
+C:\Users\User\Desktop\Prova de Lógica de Programação 2ºBimestre\QUESTAO_02_PROVA\bin\Debug\QUESTAO_02_PROVA.pdb
+C:\Users\User\Desktop\Prova de Lógica de Programação 2ºBimestre\QUESTAO_02_PROVA\obj\Debug\QUESTAO_02_PROVA.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Prova de Lógica de Programação 2ºBimestre\QUESTAO_02_PROVA\obj\Debug\QUESTAO_02_PROVA.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Prova de Lógica de Programação 2ºBimestre\QUESTAO_02_PROVA\obj\Debug\QUESTAO_02_PROVA.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Prova de Lógica de Programação 2ºBimestre\QUESTAO_02_PROVA\obj\Debug\QUESTAO_02_PROVA.exe
+C:\Users\User\Desktop\Prova de Lógica de Programação 2ºBimestre\QUESTAO_02_PROVA\obj\Debug\QUESTAO_02_PROVA.pdb
